@@ -42,7 +42,7 @@ I created a simple Profile Card using components and JSX.
 ---
 
 ## 🔗 GitHub Repository
-(Add your repo link here)
+(https://github.com/vanshikagupta-2004/react-day1-project)
 
 ---
 
